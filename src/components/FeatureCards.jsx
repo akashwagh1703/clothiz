@@ -443,6 +443,7 @@ const FeatureCards = () => {
             >
               <Card
                 sx={{
+                  width: "220px",
                   height: "100%",
                   display: "flex",
                   flexDirection: "column",
